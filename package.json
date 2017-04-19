@@ -1,0 +1,29 @@
+{
+  "name": "blankslate",
+  "version": "1.0.0",
+  "description": "Daily skincare log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HilaryScott/blankslate.git"
+  },
+  "author": "Hilary Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HilaryScott/blankslate/issues"
+  },
+  "homepage": "https://github.com/HilaryScott/blankslate#readme",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "path": "^0.12.7",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "devDependencies": {}
+}
